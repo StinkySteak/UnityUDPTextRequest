@@ -12,6 +12,8 @@ This plugin is for unity game developer who wants to host a text server.
 1. Navigate to your project folder
 1. Open up Packages folder
 1. Clone this package to the Package folder
+1. Create a asmdef for LiteNetLib (if not exist yet)
+1. Add the LiteNetLib asmdef to the UDPTextRequest asmdef reference
 
 #### Install via git URL (Package Manager)
 ```
