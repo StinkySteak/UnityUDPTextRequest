@@ -6,6 +6,7 @@ This plugin is for unity game developer who wants to host a text server.
 ## Features
 - Simple
 - Only supports text format (UTF-8)
+- State: **Beta**
 
 ## Installation
 #### Install via git clone
